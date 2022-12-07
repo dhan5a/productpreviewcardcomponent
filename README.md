@@ -25,15 +25,6 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 
-## My process/questions
-
-This is my first attempt at coding a component with minimal assistance, and there are some mistakes which I have:
-1. There is a small gap below the main picture,which makes the text component a little longer than the picture. 
-
-2. For the mobile view, the image has been resized, but it looks awkwardly stretched,and there is (again) a small gap between the picture and the text component. 
-
-If anyone has any suggestions to these two issues, I would be very glad :-)
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -43,9 +34,11 @@ If anyone has any suggestions to these two issues, I would be very glad :-)
 
 ### What I learned
 
-I learnt how to style components after watching Madison Kanna's course via FreeCodeCamp's Youtube channel. The syntax is heavily inspired by her workflow.
+I learnt how to style components after watching Madison Kanna's course via FreeCodeCamp's Youtube channel. The syntax is heavily inspired by her workflow. 
 
-I would like to focus on image resizing,especially for responsive websites.
+Update: I followed Kevin Powell's tutorial for the same exercise and updated my solution. I learnt CSS Grid and how to use grid template columns. This allows the width of the image and the card content to be of the same size.
+
+For future challenges, I would like to focus on image resizing,especially for responsive websites.
 
 
 ## Author
